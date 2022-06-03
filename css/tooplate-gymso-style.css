@@ -714,3 +714,6 @@ img {
   text-transform: capitalize;
 }
 
+.color-price{
+    display: none;
+}
