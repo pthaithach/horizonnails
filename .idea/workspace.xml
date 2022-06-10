@@ -50,56 +50,65 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1099295435">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="147" />
+          <entry key="html" value="458" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="147" />
+          <entry key="HTML" value="458" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5737619">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="352">
-                  <caret line="283" column="51" lean-forward="true" selection-start-line="283" selection-start-column="51" selection-end-line="283" selection-end-column="51" />
-                  <folding>
-                    <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#4;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#6;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#8;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#10;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#12;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#14;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#16;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#18;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#20;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css/tooplate-gymso-style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="690">
-                  <caret line="716" column="13" lean-forward="true" selection-start-line="716" selection-start-column="13" selection-end-line="716" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/tooplate-gymso-style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="707">
+              <caret line="742" column="6" lean-forward="true" selection-start-line="742" selection-start-column="6" selection-end-line="742" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
+              <folding>
+                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Bella Nail Salon</find>
-      <find>Serenity Spa</find>
-      <find>MD 20723</find>
-      <find>Illinois</find>
-      <find>moline</find>
       <find>61265</find>
       <find>boston</find>
       <find>california</find>
@@ -123,6 +132,13 @@
       <find>col-md-6 mt-3 mt-md-0</find>
       <find>chino</find>
       <find>services</find>
+      <find>480</find>
+      <find>Regular</find>
+      <find>note</find>
+      <find>Combination</find>
+      <find>anhjack</find>
+      <find>anhjack2009@yahoo.com</find>
+      <find>class-thumb</find>
     </findStrings>
     <replaceStrings>
       <replace>NV 89002</replace>
@@ -131,6 +147,9 @@
       <replace>Horizon Nail</replace>
       <replace>col-md-6 mt-md-0</replace>
       <replace>nevada</replace>
+      <replace />
+      <replace>horizonnail140@gmail.com</replace>
+      <replace>class-thumb mb-3</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -151,8 +170,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1007" />
+    <option name="width" value="760" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
@@ -160,28 +178,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="24-Horizon Nail" type="b2602c69:ProjectViewProjectNode" />
-              <item name="24-Horizon Nail" type="462c0819:PsiDirectoryNode" />
+              <item name="59 - Horizon Nail - LLDW11 - 20220610" type="b2602c69:ProjectViewProjectNode" />
+              <item name="59 - Horizon Nail - LLDW11 - 20220610" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="24-Horizon Nail" type="b2602c69:ProjectViewProjectNode" />
-              <item name="24-Horizon Nail" type="462c0819:PsiDirectoryNode" />
+              <item name="59 - Horizon Nail - LLDW11 - 20220610" type="b2602c69:ProjectViewProjectNode" />
+              <item name="59 - Horizon Nail - LLDW11 - 20220610" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="24-Horizon Nail" type="b2602c69:ProjectViewProjectNode" />
-              <item name="24-Horizon Nail" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,17 +229,18 @@
       <workItem from="1653885894604" duration="19392000" />
       <workItem from="1653967740108" duration="9317000" />
       <workItem from="1654234111516" duration="291000" />
+      <workItem from="1654835966514" duration="8584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29000000" />
+    <option name="totallyTimeSpent" value="37584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12697576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12539515" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -275,26 +289,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/tooplate-gymso-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="716" column="13" lean-forward="true" selection-start-line="716" selection-start-column="13" selection-end-line="716" selection-end-column="13" />
+        <state relative-caret-position="707">
+          <caret line="742" column="6" lean-forward="true" selection-start-line="742" selection-start-column="6" selection-end-line="742" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="283" column="51" lean-forward="true" selection-start-line="283" selection-start-column="51" selection-end-line="283" selection-end-column="51" />
+        <state relative-caret-position="542">
+          <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
           <folding>
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#6;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#8;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#10;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#12;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#14;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#16;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#18;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#20;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>

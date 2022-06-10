@@ -477,6 +477,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
 
   /*---------------------------------------
       ABOUT & TEAM            
+
   -----------------------------------------*/
 
   .about, #women {
@@ -714,6 +715,33 @@ img {
   text-transform: capitalize;
 }
 
-.color-price{
-    display: none;
+/*.color-price{*/
+    /*display: none;*/
+/*}*/
+
+@media (max-width: 480px){
+  .navbar-brand{
+    margin-right: 0 !important;
+  }
+  .navbar-toggler{
+    margin:0;
+  }
+
+}
+@media (max-width: 424px){
+  .navbar-brand{
+    width: 90%;
+  }
+
+}
+.note{
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 0;
+  font-style: italic;
+}
+.desc{
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 0;
 }
