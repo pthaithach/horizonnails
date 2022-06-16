@@ -85,6 +85,7 @@
     <session id="-1885349475">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -114,14 +115,44 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="2016590813">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="23" />
+          <entry key="html" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="23" />
+          <entry key="HTML" value="15" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/tooplate-gymso-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="794" column="18" lean-forward="true" selection-start-line="794" selection-start-column="18" selection-end-line="794" selection-end-column="18" />
+            <state relative-caret-position="269">
+              <caret line="736" column="6" lean-forward="true" selection-start-line="736" selection-start-column="6" selection-end-line="736" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -129,8 +160,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="163" column="36" selection-start-line="163" selection-start-column="36" selection-end-line="163" selection-end-column="36" />
+            <state relative-caret-position="316">
+              <caret line="781" column="21" lean-forward="true" selection-start-line="781" selection-start-column="21" selection-end-line="781" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -139,7 +170,7 @@
         <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
                 <element signature="e#36386#36620#2" expanded="true" />
                 <element signature="e#37306#37459#1" expanded="true" />
@@ -164,9 +195,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>discount</find>
-      <find>Promotion</find>
-      <find>google</find>
       <find>Bella-nail-salon-specialties-pink-flower</find>
       <find>book</find>
       <find>We</find>
@@ -194,6 +222,9 @@
       <find>slider</find>
       <find>Monday - Saturday</find>
       <find>.slick-slider</find>
+      <find>Manicure</find>
+      <find>7</find>
+      <find>note pb-3</find>
     </findStrings>
     <replaceStrings>
       <replace>NV 89002</replace>
@@ -205,6 +236,7 @@
       <replace />
       <replace>horizonnail140@gmail.com</replace>
       <replace>class-thumb mb-3</replace>
+      <replace>note pb-4</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -212,8 +244,8 @@
       <list>
         <option value="$PROJECT_DIR$/js/bootstrap.min.js" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/tooplate-gymso-style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -238,8 +270,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="59 - Horizon Nail - LLDW11 - 20220614" type="b2602c69:ProjectViewProjectNode" />
-              <item name="59 - Horizon Nail - LLDW11 - 20220614" type="462c0819:PsiDirectoryNode" />
+              <item name="59 - Horizon Nail - LLDW11 - 20220616" type="b2602c69:ProjectViewProjectNode" />
+              <item name="59 - Horizon Nail - LLDW11 - 20220616" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,7 +282,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20-Moon Swan Nails &amp; Spa" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
@@ -282,12 +314,13 @@
       <workItem from="1654234111516" duration="291000" />
       <workItem from="1654835966514" duration="8584000" />
       <workItem from="1654846520388" duration="23000" />
-      <workItem from="1655177522763" duration="7028000" />
+      <workItem from="1655177522763" duration="7429000" />
+      <workItem from="1655351855062" duration="1852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44635000" />
+    <option name="totallyTimeSpent" value="46888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -326,10 +359,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="e#36386#36620#2" expanded="true" />
             <element signature="e#37306#37459#1" expanded="true" />
@@ -349,24 +389,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+    <entry file="file://$PROJECT_DIR$/css/owl.carousel.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="22">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/tooplate-gymso-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="794" column="18" lean-forward="true" selection-start-line="794" selection-start-column="18" selection-end-line="794" selection-end-column="18" />
+        <state relative-caret-position="269">
+          <caret line="736" column="6" lean-forward="true" selection-start-line="736" selection-start-column="6" selection-end-line="736" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="163" column="36" selection-start-line="163" selection-start-column="36" selection-end-line="163" selection-end-column="36" />
+        <state relative-caret-position="316">
+          <caret line="781" column="21" lean-forward="true" selection-start-line="781" selection-start-column="21" selection-end-line="781" selection-end-column="21" />
         </state>
       </provider>
     </entry>

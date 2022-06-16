@@ -700,12 +700,12 @@ img {
   margin: 40px 0;
 }
 .title-group {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 600;
   color: #222;
 }
 .title-big{
-  font-size: 30px;
+  font-size: 32px;
   color: #cb6454 ;
   font-weight: 300;
   padding: 0 0 16px 0;
@@ -735,13 +735,13 @@ img {
 
 }
 .note{
-  font-size: 14px;
+  font-size: 15px;
   color: #666;
   margin-bottom: 0;
   font-style: italic;
 }
 .desc{
-  font-size: 16px;
+  font-size: 17px;
   color: #666;
   margin-bottom: 0;
 }
@@ -797,4 +797,7 @@ img {
 
 .hero-carousel .owl-prev:hover, .hero-carousel .owl-next:hover{
   color: #000;
+}
+.title-small div{
+  font-size: 17px;
 }
