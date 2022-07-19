@@ -725,45 +725,79 @@
 </footer>
 
 <!-- Modal -->
-<div class="modal fade" id="membershipForm" tabindex="-1" role="dialog" aria-labelledby="membershipFormLabel"
-     aria-hidden="true">
-    <div class="modal-dialog" role="document">
+<!--<div class="modal fade" id="membershipForm" tabindex="-1" role="dialog" aria-labelledby="membershipFormLabel"-->
+     <!--aria-hidden="true">-->
+    <!--<div class="modal-dialog" role="document">-->
 
+        <!--<div class="modal-content">-->
+            <!--<div class="modal-header">-->
+
+                <!--<h2 class="modal-title" id="membershipFormLabel">Membership Form</h2>-->
+
+                <!--<button type="button" class="close" data-dismiss="modal" aria-label="Close">-->
+                    <!--<span aria-hidden="true">&times;</span>-->
+                <!--</button>-->
+            <!--</div>-->
+
+            <!--<div class="modal-body">-->
+                <!--<form class="membership-form webform" role="form">-->
+                    <!--<input type="text" class="form-control" name="cf-name" placeholder="John Doe">-->
+
+                    <!--<input type="email" class="form-control" name="cf-email" placeholder="Johndoe@gmail.com">-->
+
+                    <!--<input type="tel" class="form-control" name="cf-phone" placeholder="123-456-7890"-->
+                           <!--pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>-->
+
+                    <!--<textarea class="form-control" rows="3" name="cf-message"-->
+                              <!--placeholder="Additional Message"></textarea>-->
+
+                    <!--<button type="submit" class="form-control" id="submit-button" name="submit">Submit Button</button>-->
+
+                    <!--<div class="custom-control custom-checkbox">-->
+                        <!--<input type="checkbox" class="custom-control-input" id="signup-agree">-->
+                        <!--<label class="custom-control-label text-small text-muted" for="signup-agree">I agree to the <a-->
+                                <!--href="#">Terms &amp;Conditions</a>-->
+                        <!--</label>-->
+                    <!--</div>-->
+                <!--</form>-->
+            <!--</div>-->
+
+            <!--<div class="modal-footer"></div>-->
+
+        <!--</div>-->
+    <!--</div>-->
+<!--</div>-->
+
+    <!--Popup -->
+    <div id="popup-ads" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
-            <div class="modal-header">
-
-                <h2 class="modal-title" id="membershipFormLabel">Membership Form</h2>
-
+            <div class="modal-header pt-0 pb-0">
+                <h2 class="modal-title">Promotion</h2>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-
             <div class="modal-body">
-                <form class="membership-form webform" role="form">
-                    <input type="text" class="form-control" name="cf-name" placeholder="John Doe">
-
-                    <input type="email" class="form-control" name="cf-email" placeholder="Johndoe@gmail.com">
-
-                    <input type="tel" class="form-control" name="cf-phone" placeholder="123-456-7890"
-                           pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
-
-                    <textarea class="form-control" rows="3" name="cf-message"
-                              placeholder="Additional Message"></textarea>
-
-                    <button type="submit" class="form-control" id="submit-button" name="submit">Submit Button</button>
-
-                    <div class="custom-control custom-checkbox">
-                        <input type="checkbox" class="custom-control-input" id="signup-agree">
-                        <label class="custom-control-label text-small text-muted" for="signup-agree">I agree to the <a
-                                href="#">Terms &amp;Conditions</a>
-                        </label>
+                <img class="w-100" src="images/home/horizon-nail-promotion.png" alt="">
+                <div class="row w-100 popup-button-booking m-0 pt-3">
+                    <div class="col-6 pl-0 pr-2">
+                        <a class="join-wthree hvr-wobble-horizontal btn-callnow" href="tel:+17027784528">
+                            <i class="fa fa-hand-o-right mr-2" aria-hidden="true"></i>
+                            <span style="font-size: 10px;"></span>Call Now <br>
+                            <span style="color: #ffe394">(702) 778-4528</span>
+                        </a>
                     </div>
-                </form>
+                    <div class="col-6 pr-0 pl-2">
+                        <a class="join-wthree hvr-wobble-horizontal btn-booknow" href="https://www.lldtek.com/salon/appt/Mzg1NTN8aG9yaXpvbjU1ZXxOVl8wNzQyMXxkZDdiYzI3YWRhNGQ1Y2M2YTQwYTA1ZjllM2UwNzUyYw==" target="_blank">
+                            <i class="fa fa-hand-o-right mr-2" aria-hidden="true"></i>Book Now
+                        </a>
+                    </div>
+                
+                
+                </div>
             </div>
-
-            <div class="modal-footer"></div>
-
+        
         </div>
     </div>
 </div>
@@ -778,6 +812,18 @@
 <script src="js/app.min.js"></script>    <!--for slider banner-->
 
 <script>
+
+    // Modal
+    $(window).on('load', function() {
+        $('#popup-ads').modal('show');
+    });
+
+    $('#popup-ads').modal({
+        // backdrop: 'static', // Prevent to close on click outside the modal
+        // keyboard: false  // to prevent closing with Esc button (if you want this too)
+    })
+    
+    
     var owl = $('.owl-carousel');
     owl.owlCarousel({
         items:1,
