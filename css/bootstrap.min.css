@@ -8057,7 +8057,8 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 }
 
 .pb-4, .py-4 {
-    padding-bottom: 1.5rem !important
+    padding-bottom: 1.5rem !important;
+    text-align: justify;
 }
 
 .pl-4, .px-4 {

@@ -742,6 +742,7 @@ img {
   color: #666;
   margin-bottom: 0;
   font-style: italic;
+  text-align: justify;
 }
 .desc{
   font-size: 17px;
